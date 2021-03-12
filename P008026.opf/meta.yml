@@ -5,11 +5,12 @@ source_metadata:
   title: གྲུབ་པའི་མཐའ་རྣམ་པར་བཤད་པའི་མཛོད
   author: ''
   volumes:
-    56cac242266a4801be9c2b96a5170b00:
+    faaadbc9c056485a94d40655eee8d15a:
       image_group_id: I1CZ4689
-      title: ''
+      title: Volume 1 of grub pa'i mtha' rnam par bshad pa'i mdzod
       volume_number: 1
       total_pages: 256
+      base_file: v001.txt
 ebook_metadata:
   title: གྲུབ་པའི་མཐའ་རྣམ་པར་བཤད་པའི་མཛོད
   author: ''
